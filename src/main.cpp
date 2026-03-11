@@ -18,9 +18,9 @@
 // ============================================================
 //  CONFIG
 // ============================================================
-const char*    WIFI_SSID     = "UCHIDA5332";
-const char*    WIFI_PASSWORD = "914h2X@0";
-const char*    WS_HOST       = "192.168.137.1";
+const char*    WIFI_SSID     = "U DONT WANNA KNOW";
+const char*    WIFI_PASSWORD = "U DONT WANNA KNOW";
+const char*    WS_HOST       = "U DONT WANNA KNOW";
 const uint16_t WS_PORT       = 3000;
 const char*    WS_PATH       = "/ws";
 
